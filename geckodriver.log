@@ -1,0 +1,60 @@
+1683547853246	geckodriver	INFO	Listening on 127.0.0.1:55589
+1683547856224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sudes\\AppData\\Local\\Temp\\rust_mozprofilewwm9KH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683547859261	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683547859446	Marionette	INFO	Listening on port 55605
+Read port: 55605
+WebDriver BiDi listening on ws://127.0.0.1:55590
+Read port: 55605
+1683547863254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sudes\\AppData\\Local\\Temp\\rust_mozprofilewwm9KH\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55590/devtools/browser/940b4f8f-d3ce-4682-ab47-5b6bcc0ef539
+1683552505581	Marionette	INFO	Stopped listening on port 55605
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+1683552557211	geckodriver	INFO	Listening on 127.0.0.1:58229
+1683552560281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileBmnU78"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683552561226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683552561231	Marionette	INFO	Listening on port 58242
+Read port: 58242
+WebDriver BiDi listening on ws://127.0.0.1:58230
+1683552561405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileBmnU78\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58230/devtools/browser/d352ca69-ed34-44f4-9a71-1b9e139aa760
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 488))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1683552571498	Marionette	INFO	Stopped listening on port 58242
+Dynamically enable window occlusion 1
+1683554155510	geckodriver	INFO	Listening on 127.0.0.1:58399
+1683554158572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileBE6E78"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683554159320	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683554159326	Marionette	INFO	Listening on port 58407
+Read port: 58407
+WebDriver BiDi listening on ws://127.0.0.1:58400
+1683554160164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileBE6E78\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58400/devtools/browser/6a5ce67d-33e7-42f9-8f4e-82475b2b63c6
+Shutting down due to socket process crash.
+1683554168354	Marionette	INFO	Stopped listening on port 58407
+Dynamically enable window occlusion 1
